@@ -1,0 +1,28 @@
+{
+  "name": "test_app",
+  "version": "0.0.1",
+  "description": "Use for course tests and works",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsubz/TestApp.git"
+  },
+  "keywords": [
+    "test",
+    "app",
+    "course"
+  ],
+  "author": "Marc-Antoine Bazin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsubz/TestApp/issues"
+  },
+  "homepage": "https://github.com/Tsubz/TestApp#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
